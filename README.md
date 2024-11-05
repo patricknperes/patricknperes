@@ -12,7 +12,11 @@
  
 📘 Studying **Computer Engineering** at the Federal University of Ouro Preto
  
-💻 **Front-End Developer**
+💻 **Front-End Developer focused** on creating intuitive and responsive interfaces
+
+🌐 Experienced with **HTML, CSS, JavaScript, React**
+
+🚀 **Always seeking opportunities** for professional growth and skill enhancement
 
  </div>
  
