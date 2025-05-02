@@ -8,8 +8,9 @@
 
 <br/>
 
-<div align="center">
 # 💫 About Me:
+
+<div align="center">
  
 📘 Studying **Computer Engineering** at the Federal University of Ouro Preto
  
